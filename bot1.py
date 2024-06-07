@@ -24,7 +24,7 @@ model = genai.GenerativeModel(
 
 
 # Initialize the Telegram bot
-bot = telebot.TeleBot("7127850802:AAEC_6AEltPVEoyeDuYXkTSSI2edCwrHGGc", parse_mode=None)
+bot = telebot.TeleBot("Your bot token", parse_mode=None)
 #profile photo
 
 # Handle /start and /help commands
