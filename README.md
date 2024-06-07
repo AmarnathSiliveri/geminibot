@@ -23,6 +23,6 @@ Usin' Shanks be as easy as navigatin' the stars:
 2. **State Your Query**: Let Shanks know what ye need help with.
 3. **Receive Response**: Batten down the hatches, and Shanks will provide ye with the assistance ye seek.
 
-
+![Shanks](https://github.com/SilverStark18/geminibot/blob/master/one-piece-shanks.gif)
 
 That be it! Ye be ready to set sail on yer coding adventure with Shanks as yer trusty companion. Fair winds and happy coding! 🌊⚓️
